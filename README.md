@@ -6,7 +6,7 @@ The program uses file handling to store and retrieve client data in a text file 
 Features
 The Bank Management System includes the following functionalities:
 
-1. Client Management
+###1. Client Management
 Add New Client: Add a new client with details such as Account Number, Pin Code, Name, Phone, and Account Balance.
 
 Delete Client: Delete a client by their Account Number.
