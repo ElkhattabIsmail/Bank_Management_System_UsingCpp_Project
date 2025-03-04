@@ -17,19 +17,19 @@ Find Client: Search for a client by their Account Number and display their detai
 
 Show All Clients: Display a list of all clients with their details.
 
-2. Transactions
+### 2. Transactions
 Deposit: Deposit an amount into a client's account.
 
 Withdraw: Withdraw an amount from a client's account (with validation to ensure the withdrawal amount does not exceed the account balance).
 
 Show Total Balances: Display the total balance of all clients in the system.
 
-3. File Handling
+### 3. File Handling
 The program uses a text file (Clients.txt) to store client data persistently.
 
 Data is stored in a structured format using a separator (#//#) to differentiate between fields.
 
-4. Functional Programming Concepts
+### 4. Functional Programming Concepts
 Pure Functions: Functions like ConvertLinetoRecord and ConvertRecordToLine are pure functions that take input and return output without modifying external state.
 
 Higher-Order Functions: Functions like FindClientByAccountNumber and MarkClientForDeleteByAccountNumber operate on collections of data (vectors) and apply logic to each element.
@@ -41,7 +41,7 @@ Function Composition: Functions like LoadCleintsDataFromFile and SaveCleintsData
 Project Structure
 The project is organized into the following components:
 
-1. Data Structures
+### 1. Data Structures
 sClient Struct: Represents a client with the following attributes:
 
 AccountNumber: Unique identifier for the client.
@@ -56,7 +56,7 @@ AccountBalance: Current balance in the client's account.
 
 MarkForDelete: Flag to mark a client for deletion.
 
-2. Core Functions
+### 2. Core Functions
 SplitString: Splits a string into a vector of substrings based on a delimiter. This is a pure function that takes a string and returns a vector.
 
 ConvertLinetoRecord: Converts a line from the file into an sClient object. This is a pure function that transforms data without side effects.
@@ -73,7 +73,7 @@ SaveCleintsDataToFile: Saves client data from a vector of sClient objects back t
 
 AddDataLineToFile: Appends a new client record to the file. This function handles file operations.
 
-3. User Interface Functions
+### 3. User Interface Functions
 ShowMainMenue: Displays the main menu and handles user input.
 
 ShowTransactionsMenue: Displays the transactions menu and handles user input.
