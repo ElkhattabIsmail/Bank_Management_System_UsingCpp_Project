@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ULTRAPC\\OneDrive\\Bureau\\All Courses With Programming Advices\\All Projects\\C\u002B\u002B Projects\\Bank Extensions Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{19497A06-FDEA-451C-A8F1-8B15FDB10D65}|Bank Extensions Project\\Bank Extensions Project.vcxproj|C:\\Users\\ULTRAPC\\OneDrive\\Bureau\\All Courses With Programming Advices\\All Projects\\C\u002B\u002B Projects\\Bank Extensions Project\\Bank Extensions Project\\Bank Extensions Project.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{19497A06-FDEA-451C-A8F1-8B15FDB10D65}|Bank Extensions Project\\Bank Extensions Project.vcxproj|solutionrelative:Bank Extensions Project\\Bank Extensions Project.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|C:\\Users\\ULTRAPC\\OneDrive\\Bureau\\All Courses With Programming Advices\\All Projects\\C\u002B\u002B Projects\\Bank Extensions Project\\Bank Extensions Project\\Users.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|solutionrelative:Bank Extensions Project\\Users.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|C:\\Users\\ULTRAPC\\OneDrive\\Bureau\\All Courses With Programming Advices\\All Projects\\C\u002B\u002B Projects\\Bank Extensions Project\\Bank Extensions Project\\Clients.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|solutionrelative:Bank Extensions Project\\Clients.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Users.txt",
+              "DocumentMoniker": "C:\\Users\\ULTRAPC\\OneDrive\\Bureau\\All Courses With Programming Advices\\All Projects\\C\u002B\u002B Projects\\Bank Extensions Project\\Bank Extensions Project\\Users.txt",
+              "RelativeDocumentMoniker": "Bank Extensions Project\\Users.txt",
+              "ToolTip": "C:\\Users\\ULTRAPC\\OneDrive\\Bureau\\All Courses With Programming Advices\\All Projects\\C\u002B\u002B Projects\\Bank Extensions Project\\Bank Extensions Project\\Users.txt",
+              "RelativeToolTip": "Bank Extensions Project\\Users.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-03-07T10:08:19.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Clients.txt",
+              "DocumentMoniker": "C:\\Users\\ULTRAPC\\OneDrive\\Bureau\\All Courses With Programming Advices\\All Projects\\C\u002B\u002B Projects\\Bank Extensions Project\\Bank Extensions Project\\Clients.txt",
+              "RelativeDocumentMoniker": "Bank Extensions Project\\Clients.txt",
+              "ToolTip": "C:\\Users\\ULTRAPC\\OneDrive\\Bureau\\All Courses With Programming Advices\\All Projects\\C\u002B\u002B Projects\\Bank Extensions Project\\Bank Extensions Project\\Clients.txt",
+              "RelativeToolTip": "Bank Extensions Project\\Clients.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-03-07T10:04:31.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bank Extensions Project.cpp",
+              "DocumentMoniker": "C:\\Users\\ULTRAPC\\OneDrive\\Bureau\\All Courses With Programming Advices\\All Projects\\C\u002B\u002B Projects\\Bank Extensions Project\\Bank Extensions Project\\Bank Extensions Project.cpp",
+              "RelativeDocumentMoniker": "Bank Extensions Project\\Bank Extensions Project.cpp",
+              "ToolTip": "C:\\Users\\ULTRAPC\\OneDrive\\Bureau\\All Courses With Programming Advices\\All Projects\\C\u002B\u002B Projects\\Bank Extensions Project\\Bank Extensions Project\\Bank Extensions Project.cpp",
+              "RelativeToolTip": "Bank Extensions Project\\Bank Extensions Project.cpp",
+              "ViewState": "AgIAAIgAAAAAAAAAAAAEwI0AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-02T00:12:26.548Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
