@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ULTRAPC\\OneDrive\\Bureau\\All Courses With Programming Advices\\All Projects\\C\u002B\u002B Projects\\Bank System With OOP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F7247FBF-40A4-4DBD-8AFB-4B11EF22D2F1}|OOP Aplications\\OOP Aplications.vcxproj|C:\\Users\\ULTRAPC\\OneDrive\\Bureau\\All Courses With Programming Advices\\All Projects\\C\u002B\u002B Projects\\Bank System With OOP\\OOP Aplications\\OOP Aplications.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F7247FBF-40A4-4DBD-8AFB-4B11EF22D2F1}|OOP Aplications\\OOP Aplications.vcxproj|solutionrelative:OOP Aplications\\OOP Aplications.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7247FBF-40A4-4DBD-8AFB-4B11EF22D2F1}|OOP Aplications\\OOP Aplications.vcxproj|C:\\USERS\\ULTRAPC\\ONEDRIVE\\BUREAU\\ALL COURSES WITH PROGRAMMING ADVICES\\ALL PROJECTS\\C\u002B\u002B PROJECTS\\BANK SYSTEM WITH OOP\\OOP APLICATIONS\\CLSSTRING.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F7247FBF-40A4-4DBD-8AFB-4B11EF22D2F1}|OOP Aplications\\OOP Aplications.vcxproj|solutionrelative:OOP APLICATIONS\\CLSSTRING.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7247FBF-40A4-4DBD-8AFB-4B11EF22D2F1}|OOP Aplications\\OOP Aplications.vcxproj|C:\\Users\\ULTRAPC\\OneDrive\\Bureau\\All Courses With Programming Advices\\All Projects\\C\u002B\u002B Projects\\Bank System With OOP\\OOP Aplications\\clsUser.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F7247FBF-40A4-4DBD-8AFB-4B11EF22D2F1}|OOP Aplications\\OOP Aplications.vcxproj|solutionrelative:OOP Aplications\\clsUser.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "clsString.h",
+              "DocumentMoniker": "C:\\Users\\ULTRAPC\\OneDrive\\Bureau\\All Courses With Programming Advices\\All Projects\\C\u002B\u002B Projects\\Bank System With OOP\\OOP Aplications\\clsString.h",
+              "RelativeDocumentMoniker": "OOP Aplications\\clsString.h",
+              "ToolTip": "C:\\Users\\ULTRAPC\\OneDrive\\Bureau\\All Courses With Programming Advices\\All Projects\\C\u002B\u002B Projects\\Bank System With OOP\\OOP Aplications\\clsString.h",
+              "RelativeToolTip": "OOP Aplications\\clsString.h",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAAAGQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-09T13:18:19.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "clsUser.h",
+              "DocumentMoniker": "C:\\Users\\ULTRAPC\\OneDrive\\Bureau\\All Courses With Programming Advices\\All Projects\\C\u002B\u002B Projects\\Bank System With OOP\\OOP Aplications\\clsUser.h",
+              "RelativeDocumentMoniker": "OOP Aplications\\clsUser.h",
+              "ToolTip": "C:\\Users\\ULTRAPC\\OneDrive\\Bureau\\All Courses With Programming Advices\\All Projects\\C\u002B\u002B Projects\\Bank System With OOP\\OOP Aplications\\clsUser.h",
+              "RelativeToolTip": "OOP Aplications\\clsUser.h",
+              "ViewState": "AgIAABUBAAAAAAAAAAAqwCMBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-09T13:16:12.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OOP Aplications.cpp",
+              "DocumentMoniker": "C:\\Users\\ULTRAPC\\OneDrive\\Bureau\\All Courses With Programming Advices\\All Projects\\C\u002B\u002B Projects\\Bank System With OOP\\OOP Aplications\\OOP Aplications.cpp",
+              "RelativeDocumentMoniker": "OOP Aplications\\OOP Aplications.cpp",
+              "ToolTip": "C:\\Users\\ULTRAPC\\OneDrive\\Bureau\\All Courses With Programming Advices\\All Projects\\C\u002B\u002B Projects\\Bank System With OOP\\OOP Aplications\\OOP Aplications.cpp*",
+              "RelativeToolTip": "OOP Aplications\\OOP Aplications.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-09T12:42:29.788Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

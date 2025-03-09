@@ -1,0 +1,61 @@
+﻿  OOP Aplications.cpp
+C:\Users\ULTRAPC\OneDrive\Bureau\All Courses With Programming Advices\All Projects\C++ Projects\Bank System With OOP\OOP Aplications\clsString.h(39,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'OOP%20Aplications.cpp')
+  
+C:\Users\ULTRAPC\OneDrive\Bureau\All Courses With Programming Advices\All Projects\C++ Projects\Bank System With OOP\OOP Aplications\clsString.h(44,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'OOP%20Aplications.cpp')
+  
+C:\Users\ULTRAPC\OneDrive\Bureau\All Courses With Programming Advices\All Projects\C++ Projects\Bank System With OOP\OOP Aplications\clsString.h(56,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'OOP%20Aplications.cpp')
+  
+C:\Users\ULTRAPC\OneDrive\Bureau\All Courses With Programming Advices\All Projects\C++ Projects\Bank System With OOP\OOP Aplications\clsString.h(194,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'OOP%20Aplications.cpp')
+  
+C:\Users\ULTRAPC\OneDrive\Bureau\All Courses With Programming Advices\All Projects\C++ Projects\Bank System With OOP\OOP Aplications\clsString.h(325,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'OOP%20Aplications.cpp')
+  
+C:\Users\ULTRAPC\OneDrive\Bureau\All Courses With Programming Advices\All Projects\C++ Projects\Bank System With OOP\OOP Aplications\clsString.h(373,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'OOP%20Aplications.cpp')
+  
+C:\Users\ULTRAPC\OneDrive\Bureau\All Courses With Programming Advices\All Projects\C++ Projects\Bank System With OOP\OOP Aplications\clsInputValidate.h(119,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'OOP%20Aplications.cpp')
+  
+C:\Users\ULTRAPC\OneDrive\Bureau\All Courses With Programming Advices\All Projects\C++ Projects\Bank System With OOP\OOP Aplications\clsUtil.h(64,5): warning C4102: 'defualt': unreferenced label
+  (compiling source file 'OOP%20Aplications.cpp')
+  
+C:\Users\ULTRAPC\OneDrive\Bureau\All Courses With Programming Advices\All Projects\C++ Projects\Bank System With OOP\OOP Aplications\clsBankClient.h(206,12): warning C4240: nonstandard extension used: access to 'clsBankClient::stTrnsferLogRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'OOP%20Aplications.cpp')
+      C:\Users\ULTRAPC\OneDrive\Bureau\All Courses With Programming Advices\All Projects\C++ Projects\Bank System With OOP\OOP Aplications\clsBankClient.h(152,12):
+      see declaration of 'clsBankClient::stTrnsferLogRecord'
+  
+C:\Users\ULTRAPC\OneDrive\Bureau\All Courses With Programming Advices\All Projects\C++ Projects\Bank System With OOP\OOP Aplications\clsBankClient.h(28,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'OOP%20Aplications.cpp')
+  
+C:\Users\ULTRAPC\OneDrive\Bureau\All Courses With Programming Advices\All Projects\C++ Projects\Bank System With OOP\OOP Aplications\clsBankClient.h(162,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'OOP%20Aplications.cpp')
+  
+C:\Users\ULTRAPC\OneDrive\Bureau\All Courses With Programming Advices\All Projects\C++ Projects\Bank System With OOP\OOP Aplications\clsBankClient.h(163,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'OOP%20Aplications.cpp')
+  
+C:\Users\ULTRAPC\OneDrive\Bureau\All Courses With Programming Advices\All Projects\C++ Projects\Bank System With OOP\OOP Aplications\clsBankClient.h(164,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'OOP%20Aplications.cpp')
+  
+C:\Users\ULTRAPC\OneDrive\Bureau\All Courses With Programming Advices\All Projects\C++ Projects\Bank System With OOP\OOP Aplications\clsBankClient.h(421,28): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'OOP%20Aplications.cpp')
+  
+C:\Users\ULTRAPC\OneDrive\Bureau\All Courses With Programming Advices\All Projects\C++ Projects\Bank System With OOP\OOP Aplications\clsBankClient.h(434,30): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'OOP%20Aplications.cpp')
+  
+C:\Users\ULTRAPC\OneDrive\Bureau\All Courses With Programming Advices\All Projects\C++ Projects\Bank System With OOP\OOP Aplications\clsUser.h(198,12): warning C4240: nonstandard extension used: access to 'clsUser::stLoginRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'OOP%20Aplications.cpp')
+      C:\Users\ULTRAPC\OneDrive\Bureau\All Courses With Programming Advices\All Projects\C++ Projects\Bank System With OOP\OOP Aplications\clsUser.h(26,12):
+      see declaration of 'clsUser::stLoginRegisterRecord'
+  
+C:\Users\ULTRAPC\OneDrive\Bureau\All Courses With Programming Advices\All Projects\C++ Projects\Bank System With OOP\OOP Aplications\clsTotalBalancesScreen.h(57,82): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'OOP%20Aplications.cpp')
+  
+C:\Users\ULTRAPC\OneDrive\Bureau\All Courses With Programming Advices\All Projects\C++ Projects\Bank System With OOP\OOP Aplications\clsLoginScreen.h(56,1): warning C4715: 'clsLoginScreen::_Login': not all control paths return a value
+C:\Users\ULTRAPC\OneDrive\Bureau\All Courses With Programming Advices\All Projects\C++ Projects\Bank System With OOP\OOP Aplications\clsBankClient.h(376,1): warning C4715: 'clsBankClient::Save': not all control paths return a value
+C:\Users\ULTRAPC\OneDrive\Bureau\All Courses With Programming Advices\All Projects\C++ Projects\Bank System With OOP\OOP Aplications\clsBankClient.h(438,1): warning C4715: 'clsBankClient::Withdraw': not all control paths return a value
+C:\Users\ULTRAPC\OneDrive\Bureau\All Courses With Programming Advices\All Projects\C++ Projects\Bank System With OOP\OOP Aplications\clsUser.h(357,1): warning C4715: 'clsUser::Save': not all control paths return a value
+  OOP Aplications.vcxproj -> C:\Users\ULTRAPC\OneDrive\Bureau\All Courses With Programming Advices\All Projects\C++ Projects\Bank System With OOP\x64\Debug\OOP Aplications.exe
