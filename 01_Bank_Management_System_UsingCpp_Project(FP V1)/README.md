@@ -4,7 +4,7 @@
 #### The program uses file handling to store and retrieve client data in a text file (Clients.txt). The data is stored in a structured format, and the program leverages functional programming principles to manage client records and transactions.
 
 #### Features
-The Bank Management System includes the following functionalities:
+#### The Bank Management System includes the following functionalities:
 
 ### 1. Client Management
 Add New Client: Add a new client with details such as Account Number, Pin Code, Name, Phone, and Account Balance.
