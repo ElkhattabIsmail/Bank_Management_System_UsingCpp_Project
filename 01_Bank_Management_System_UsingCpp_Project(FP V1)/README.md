@@ -1,5 +1,5 @@
 # Bank_Management_System_UsingCpp_Project
-This project is a Bank Management System implemented in C++. It provides a console-based interface for managing client records, performing transactions, and handling various banking operations. The system allows users to add, delete, update, and find clients, as well as perform deposit and withdrawal transactions. It also provides functionality to display the total balances of all clients.
+#### This project is a Bank Management System implemented in C++. It provides a console-based interface for managing client records, performing transactions, and handling various banking operations. The system allows users to add, delete, update, and find clients, as well as perform deposit and withdrawal transactions. It also provides functionality to display the total balances of all clients.
 
 The program uses file handling to store and retrieve client data in a text file (Clients.txt). The data is stored in a structured format, and the program leverages functional programming principles to manage client records and transactions.
 
